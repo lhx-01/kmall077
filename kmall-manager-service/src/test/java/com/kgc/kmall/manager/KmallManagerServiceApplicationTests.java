@@ -20,5 +20,4 @@ class KmallManagerServiceApplicationTests {
             System.out.println(catalog1);
         }
 	}
-
 }
